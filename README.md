@@ -1,2 +1,19 @@
-# palworld-breeding-combos
-Palworld/パルワールド全配合検索ツール
+# Palworld Breeding Combos
+
+## 概要
+PalworldBreed.jpは、人気ゲーム「パルワールド」の全配合検索ツールを提供するウェブサイトです。
+
+## 主な機能
+- 親パルから子パルの組み合わせを検索
+- 子パルから可能な親の組み合わせを確認
+- 最新のパルワールド配合表を閲覧
+
+## 使い方
+1. サイトにアクセス: [palworldbreed.jp](https://palworldbreed.jp)
+2. 「Parent」または「Child」を選択
+3. 検索ボタンをクリック
+
+## 特徴
+- 無料で使用可能
+- 包括的な配合データベース
+- ユーザーフレンドリーなインターフェース
